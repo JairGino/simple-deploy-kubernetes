@@ -1,5 +1,5 @@
 <?php
-$servername = "";
+$servername = "mysql-connection";   //kubernetes service name
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
